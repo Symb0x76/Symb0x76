@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+![Symb0x76's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Symb0x76&layout=compact&hide_border=true&langs_count=6)
 
 <!--
 **Symb0x76/Symb0x76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

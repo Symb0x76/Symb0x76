@@ -1,7 +1,7 @@
 # 👋 你好，我是 Symb0x76！
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&fontColor=ffffff" />
 </p>
 
 ## 🚀 关于我
@@ -39,5 +39,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=100&section=footer&text=Happy%20Coding!&fontSize=40" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=fe428e&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff" />
 </p>

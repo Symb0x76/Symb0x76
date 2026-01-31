@@ -8,11 +8,13 @@
 
 一名热衷于技术创新的开发者，喜欢探索新技术并将其应用于实践。
 
-- 🔭 我目前正在：**学习机器学习和 C++ 开发**
+- 🔭 我目前正在：
+    1. 开发 Bethesda 游戏 Mod 汉化工具
+    2. 研究基于深度学习的游戏 AI
 - 🌱 我正在学习：**高性能计算、机器学习以及 Go 语言开发**
 - 👯 重点项目：
     - [ChineseChessZero](https://github.com/Symb0x76/ChineseChessZero): 基于 AlphaZero 算法的中国象棋 AI
-    - [WXLog](https://github.com/Symb0x76/WXLog): 微信日志自包含处理工具 (Go 实现)
+    - [chatlog](https://github.com/Symb0x76/chatlog): 微信消息记录处理工具
 
 ---
 
@@ -23,7 +25,6 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---

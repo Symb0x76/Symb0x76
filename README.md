@@ -34,3 +34,16 @@ A developer passionate about technical innovation, exploring new technologies an
   <img width="390" height="165" src="https://github-readme-stats-symb0x76.vercel.app/api?username=Symb0x76&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400" alt="Symb0x76's GitHub stats" />
   <img width="390" height="165" src="https://github-readme-stats-symb0x76.vercel.app/api/top-langs/?username=Symb0x76&layout=compact&hide_border=true&langs_count=6&theme=radical&cache_seconds=86400" alt="Symb0x76's Most used languages" />
 </p>
+
+---
+
+# Socials
+
+<p align="left">
+  <a href="https://blog0x76.vercel.app/">
+    <img src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="Blog" />
+  </a>
+  <a href="https://space.bilibili.com/356147928">
+    <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" />
+  </a>
+</p>

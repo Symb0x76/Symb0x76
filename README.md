@@ -1,44 +1,36 @@
-# 👋 你好，我是 Symb0x76！
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=70&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=fe428e&height=200&section=header&text=Hello!%20I'm%20Symb0x76&fontSize=70&fontColor=ffffff" />
 </p>
 
-## 🚀 关于我
+# 🚀 About me
 
-一名热衷于技术创新的开发者，喜欢探索新技术并将其应用于实践。
+A developer passionate about technical innovation, exploring new technologies and applying them in practice.
 
-- 🔭 我目前正在：
-    1. 开发 Bethesda 游戏 Mod 汉化工具
-    2. 研究基于深度学习的游戏 AI
-- 🌱 我正在学习：**高性能计算、机器学习以及 Go 语言开发**
-- 👯 重点项目：
-    - [ChineseChessZero](https://github.com/Symb0x76/ChineseChessZero): 基于 AlphaZero 算法的中国象棋 AI
-    - [chatlog](https://github.com/Symb0x76/chatlog): 微信消息记录处理工具
+- 🔭 I am currently:
+    1. Building a translation tool for Bethesda game mods (e.g. Skyrim & Fallout)
+- 🌱 I am learning:
+    - High-performance computing
+    - machine learning
+    - Golang
+    - C#
 
 ---
 
-## 🛠 技术栈
+# 🛠 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub 统计信息
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Symb0x76&show_icons=true&theme=radical" alt="Symb0x76's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Symb0x76&layout=compact&hide_border=true&langs_count=6&theme=radical" alt="Symb0x76's Most used languages" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=fe428e&height=100&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff" />
+  <img width="390" height="165" src="https://github-readme-stats-symb0x76.vercel.app/api?username=Symb0x76&show_icons=true&hide_border=true&theme=radical&cache_seconds=86400" alt="Symb0x76's GitHub stats" />
+  <img width="390" height="165" src="https://github-readme-stats-symb0x76.vercel.app/api/top-langs/?username=Symb0x76&layout=compact&hide_border=true&langs_count=6&theme=radical&cache_seconds=86400" alt="Symb0x76's Most used languages" />
 </p>

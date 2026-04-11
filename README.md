@@ -8,11 +8,11 @@ A developer passionate about technical innovation, exploring new technologies an
 
 - 🔭 I am currently:
     1. Building a translation tool for Bethesda game mods (e.g. Skyrim & Fallout)
+    2. Re-learning development without all vibe
 - 🌱 I am learning:
-    - High-performance computing
-    - machine learning
+    - C++
     - Golang
-    - C#
+    - Python
 
 ---
 

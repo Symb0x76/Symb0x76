@@ -22,8 +22,6 @@
 <img src="https://img.shields.io/badge/%F0%9F%8E%93-NJUPT-1a1b27?style=flat-square&labelColor=24283b" />
 <img src="https://img.shields.io/badge/UTC-%2B8-1a1b27?style=flat-square&labelColor=24283b" />
 <a href="https://blog.symb0x76.top"><img src="https://img.shields.io/badge/blog-symb0x76.top-7aa2f7?style=flat-square&logo=astro&logoColor=white&labelColor=24283b" /></a>
-<a href="mailto:9667434@qq.com"><img src="https://img.shields.io/badge/email-contact-bb9af7?style=flat-square&logo=gmail&logoColor=white&labelColor=24283b" /></a>
-<img src="https://komarev.com/ghpvc/?username=Symb0x76&label=profile%20views&color=7aa2f7&style=flat-square" />
 
 </div>
 
@@ -50,7 +48,7 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 
 ### 🇨🇳 中文
 
-来自**南京邮电大学（NJUPT）**的学生与独立开发者，专注 **Unreal Engine 网络复制 / GAS** 与 **C++ 游戏开发**。
+来自 **南京邮电大学 (NJUPT)** 的学生与独立开发者，专注 **Unreal Engine 网络复制 / GAS** 与 **C++ 游戏开发**。
 
 一个热爱技术创新的极客，喜欢探索新技术并把它们应用到实践中——目前深耕 **Fallout 4 社区着色器**、**Unreal Engine 网络复制** 与 **Gameplay Ability System**。
 
@@ -99,37 +97,15 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 </td>
 <td width="50%" valign="top">
 
-#### 🧪 [NJUPT SAST Python WoC](https://github.com/Symb0x76/NJUPT-SAST-Python-WoC-2025)
-> Official repository for the **2025 NJUPT SAST Python Winter of Code**.
-> Open-source practice & community collaboration.
-
-`Python` `Open Source` `Community`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🧾 [NetBilling](https://github.com/Symb0x76/NetBilling-2025-NJUPT-Program-Practice)
-> C++ program-practice project (NJUPT, 2025).
-> Networking & billing simulation.
-
-`C++` `Networking` `Practice`
-
-</td>
-<td width="50%" valign="top">
-
 #### 💬 [chatlog](https://github.com/Symb0x76/chatlog)
 > A chat log tool — easily reuse your own chat data.
-> ⭐ 69 · 聊天记录工具，轻松复用你的聊天数据.
+> 聊天记录工具，轻松复用你的聊天数据.
 
 `Go` `Chat` `Data`
 
 </td>
 </tr>
 </table>
-
-<sub>More on my profile → <a href="https://github.com/Symb0x76?tab=repositories">github.com/Symb0x76?tab=repositories</a></sub>
 
 <br/>
 
@@ -140,24 +116,18 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 **Languages**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Game & Graphics**
+**Game Engine**
 
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![GAS](https://img.shields.io/badge/GAS-1a1b27?style=for-the-badge&logo=unrealengine&logoColor=white)
-![F4SE](https://img.shields.io/badge/F4SE-1a1b27?style=for-the-badge&logo=fallout&logoColor=white)
-![Shaders](https://img.shields.io/badge/Shaders-1a1b27?style=for-the-badge&logo=opengl&logoColor=white)
 
-**AI / Backend / Tooling**
+**Miscs**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MCTS](https://img.shields.io/badge/MCTS-1a1b27?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <br/>
 
@@ -172,15 +142,11 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 
 <br/>
 
-<img height="170" src="https://github-readme-stats-symb0x76.vercel.app/api/top-langs/?username=Symb0x76&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
+<img height="250" src="https://github-readme-stats-symb0x76.vercel.app/api/top-langs/?username=Symb0x76&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=10&cache_seconds=86400" alt="Top Languages"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Symb0x76&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies"/>
-
-<br/><br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Symb0x76&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ff9e64" alt="Activity Graph"/>
+<img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Symb0x76&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ff9e64" alt="Activity Graph"/>
 
 </div>
 
@@ -193,11 +159,8 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 <a href="mailto:9667434@qq.com">
   <img src="https://img.shields.io/badge/Email-9667434%40qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://blog.symb0x76.top">
-  <img src="https://img.shields.io/badge/Blog-symb0x76.top-2962FF?style=for-the-badge&logo=astro&logoColor=white"/>
-</a>
 <a href="https://space.bilibili.com/356147928">
-  <img src="https://img.shields.io/badge/Bilibili-Space-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bilibili-Symb0x76-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
 </a>
 <a href="https://github.com/Symb0x76">
   <img src="https://img.shields.io/badge/GitHub-Symb0x76-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -210,7 +173,5 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=120&section=footer&text=Let%27s%20build%20something%20great%20together&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
-
-<sub>⭐ If something here resonates, drop a star or send an email — I read every message.</sub>
 
 </div>

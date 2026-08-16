@@ -137,7 +137,7 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-symb0x76.vercel.app/api?username=Symb0x76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats"/>
+<img height="170" src="https://github-readme-stats-symb0x76.vercel.app/api?username=Symb0x76&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&cache_seconds=86400" alt="GitHub Stats"/>
 <img height="170" src="https://streak-stats.demolab.com?user=Symb0x76&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=bb9af7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak"/>
 
 <br/>
@@ -172,6 +172,6 @@ I also maintain a curious side in **Golang**, **Python**, and classic **AI algor
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=120&section=footer&text=Let%27s%20build%20something%20great%20together&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=120&section=footer&text=Geeks%20save%20world&fontSize=18&fontColor=ffffff&fontAlignY=70&animation=fadeIn" width="100%"/>
 
 </div>

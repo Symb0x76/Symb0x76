@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/Symb0x76">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Symb0x76&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Independent%20Developer%20%7C%20Unreal%20Engine%20%26%20C%2B%2B&descSize=18&descAlignY=58&animation=fadeIn&cb=1" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Symb0x76&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Independent%20Developer%20%7C%20Unreal%20Engine%20and%20C%2B%2B&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
 </a>
 
 <!-- ===================== TYPING TAGLINE ===================== -->

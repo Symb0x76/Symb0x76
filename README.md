@@ -2,13 +2,13 @@
 <div align="center">
 
 <a href="https://github.com/Symb0x76">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Symb0x76&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Independent%20Developer%20%C2%B7%20Unreal%20Engine%20%26%20C%2B%2B&descSize=18&descAlignY=58&animation=fadeIn" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,7&height=220&section=header&text=Symb0x76&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Independent%20Developer%20%7C%20Unreal%20Engine%20%26%20C%2B%2B&descSize=18&descAlignY=58&animation=fadeIn&cb=1" alt="header" width="100%"/>
 </a>
 
 <!-- ===================== TYPING TAGLINE ===================== -->
 
 <a href="https://github.com/Symb0x76">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I%27m+Symb0x76+%E2%9C%A8;C%2B%2B+%C2%B7+Unreal+Engine+%C2%B7+Golang+%C2%B7+Python;%E7%8B%AC%E7%AB%8B%E5%BC%80%E5%8F%91%E8%80%85+%C2%B7+UE+%E7%BD%91%E7%BB%9C%E4%B8%8E%E6%B8%B8%E6%88%8F%E6%8A%80%E6%9C%AF%E8%BF%B7;Explore+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Share" alt="typing taglines"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&lines=Hi+there%2C+I%27m+Symb0x76+%E2%9C%A8;C%2B%2B+%C2%B7+Unreal+Engine+%C2%B7+Golang+%C2%B7+Python;Independent+Developer+%7C+UE+Networking+%26+Game+Tech+Enthusiast;Explore+%E2%80%A2+Learn+%E2%80%A2+Build+%E2%80%A2+Share" alt="typing taglines"/>
 </a>
 
 <br/>
